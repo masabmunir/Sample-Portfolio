@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+}
+.background
+{
+    height: 100vh;
+    text-align: center;
+    background-image: url("carosal 2.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.image
+{
+    text-align: center;
+    border-radius:50%;
+}
+
+.Education-section
+{  
+   font-family: Arial;
+}
+
+/*#Education
+{
+height: 100vh;
+background-image:url('simple section.jpg');
+background-position: center;
+background-attachment: fixed;
+background-size:cover; 
+background-repeat:no-repeat; 
+}
+*/
+.underline{
+    height: 10px;
+    width: 150px;
+    margin: 0% auto;
+}
+
